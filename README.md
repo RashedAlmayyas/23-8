@@ -1,4 +1,5 @@
 # 23-8
+
 // Q1:
 // Write a function named createList that takes in an array of the current store intentory.
 
@@ -68,7 +69,8 @@
 
 // If the user enters any of these four inputs, return true. For any other input, return false.
 
-
+for live 
+https://rashedalmayyas.github.io/23-8/
 
 
 
