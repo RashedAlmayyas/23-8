@@ -46,4 +46,7 @@ const str = '88';
 
 const regex = new RegExp([a-zA-Z+0-9]);
 console.log(regex.test(str));
+
+let regex = /["October" "Oct" "october" "oct"]/;
+console.log(regex.test('oct'));
 */
